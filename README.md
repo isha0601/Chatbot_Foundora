@@ -18,7 +18,7 @@ This is a chatbot built with **Google Gemini**, **LangChain**, and **LangGraph**
 
 ## 📂 Project Structure
 ```
-Charbot_Foundora/
+Chatbot_Foundora/
 │── .env # Store your GEMINI_API_KEY here
 │── requirements.txt # Dependencies
 │── main.py # Terminal chatbot
